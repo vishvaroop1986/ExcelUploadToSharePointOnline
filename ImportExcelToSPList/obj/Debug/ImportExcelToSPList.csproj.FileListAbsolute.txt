@@ -1,0 +1,6 @@
+D:\Vishvaroop\VS2012 Projects\Projects\ImportExcelToSPList\ImportExcelToSPList\bin\Debug\ImportExcelToSPList.exe.config
+D:\Vishvaroop\VS2012 Projects\Projects\ImportExcelToSPList\ImportExcelToSPList\bin\Debug\ImportExcelToSPList.exe
+D:\Vishvaroop\VS2012 Projects\Projects\ImportExcelToSPList\ImportExcelToSPList\bin\Debug\ImportExcelToSPList.pdb
+D:\Vishvaroop\VS2012 Projects\Projects\ImportExcelToSPList\ImportExcelToSPList\obj\Debug\ImportExcelToSPList.exe
+D:\Vishvaroop\VS2012 Projects\Projects\ImportExcelToSPList\ImportExcelToSPList\obj\Debug\ImportExcelToSPList.pdb
+D:\Vishvaroop\VS2012 Projects\Projects\ImportExcelToSPList\ImportExcelToSPList\obj\Debug\ImportExcelToSPList.csprojResolveAssemblyReference.cache
